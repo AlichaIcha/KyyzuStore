@@ -2,7 +2,7 @@
 
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "profile.jpg", // Path ke favicon
+  favicon: "profile.png", // Path ke favicon
   title: "Kayyzu Store | Profile", // Judul halaman
   metaTitle: "Kayyzu || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Kayyzu Store, Creator and Store", // Deskripsi meta untuk SEO
