@@ -3,15 +3,15 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "profile.jpg", // Path ke favicon
-  title: "Alicha Dinastira | Profile", // Judul halaman
-  metaTitle: "Alicha || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website Alicha Dinastira, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Alicha, Alicha Dinastira, profile Alicha, siapa Alicha?", // Keywords meta untuk SEO
+  title: "Kayyzu Store | Profile", // Judul halaman
+  metaTitle: "Kayyzu || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website Kayyzu Store, Creator and Store", // Deskripsi meta untuk SEO
+  metaKeywords: "Kayyzu, Kayyzu Store, profile Kayyzu, siapa Kayyzu?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "profile.jpg", // Path ke gambar profil
-  name: "Alicha Dinastira", // Nama profil
-  occupation: "Creator and Dev", // Pekerjaan atau jabatan
-  location: "Bekasi Timur, Jawa Barat, Indonesia", // Lokasi
+  imageSrc: "profile.png", // Path ke gambar profil
+  name: "Kayyzu Store", // Nama profil
+  occupation: "Creator and Store", // Pekerjaan atau jabatan
+  location: "Bekasi, Jawa Barat, Indonesia", // Lokasi
   backgroundImage: "background.jpg", // Latar belakang halaman
   links: [
     { title: "GitHub", url: "https://github.com/AlichaIcha", icon: "fa-github" }, // Tautan GitHub
